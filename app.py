@@ -141,4 +141,4 @@ if "OPENAI_KEY" in st.secrets:
                     st.error(f"Errore durante la generazione: {e}")
 else:
     st.warning("❗️ Aggiungi la tua API key OpenAI in Streamlit Secrets")
-<PASTE APP.PY CONTENT HERE – OMITTED FOR BREVITY>
+
